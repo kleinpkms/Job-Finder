@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-family: Helvetica, sans-serif
+    font-family: Ink Free, sans-serif;
   }
   
   .navbar  {
     padding: 1rem;
-    border-bottom: 1px solid #CCC;
+    border-bottom: 1px solid #fd0505;
   }
   
   .navbar .nav-item a {
@@ -23,15 +23,15 @@
   
   .navbar .nav-item .btn {
     color: #FFF;
-    background-color: #F03E3E;
+    background-color: #0004ff;
     border: 1px solid transparent;
     border-radius: 0;
   }
   
   .nav-link.btn.btn-primary:hover, #search-form button:hover, .list-group-item a:hover, #form-box button:hover {
     background-color: #FFF;
-    color: #F03E3E;
-    border-color: #F03E3E;
+    color: #0004ff;
+    border-color: #0004ff;
   }
  
   #top-container {
@@ -73,7 +73,7 @@
   
   #search-form button {
     color: #FFF;
-    background-color: #F03E3E;
+    background-color: #0004ff;
     border: 1px solid transparent;
   }
   
@@ -121,7 +121,7 @@
     top: 35px;
     height: 50px;
     line-height: 35px;
-    background-color: #F03E3E;
+    background-color: #0004ff;
     border: 1px solid transparent;
     border-radius: 0;
     color: #FFF;
@@ -161,7 +161,7 @@
   }
   
   #add-form-container h2 {
-    color: #F03E3E;
+    color: #0004ff;
     font-weight: bold;
     font-size: 24px;
     margin-bottom: 30px;
@@ -179,7 +179,7 @@
   #form-box button {
     height: 50px;
     width: 200px;
-    background-color: #F03E3E;
+    background-color: #0004ff;
     border: 1px solid transparent;
     border-radius: 0;
     margin-top: 20px;
@@ -215,17 +215,17 @@
   }
   
   .main-color {
-    color: #F03E3E;
+    color: #0004ff;
   }
   
   .back-link {
-    border: 1px solid #F03E3E;
+    border: 1px solid #0004ff;
     padding: 5px 10px;
     transition: .5s;
   }
   
   .back-link:hover {
-    background-color: #F03E3E;
+    background-color: #0004ff;
     color: #FFF;
     text-decoration: none;
   }
